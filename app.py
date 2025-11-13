@@ -604,3 +604,4 @@ else:
 st.markdown("---")
 st.markdown("*NPB選手年俸予測システム - Powered by Streamlit*")
 
+
